@@ -1,0 +1,16 @@
+body {
+    background-color: floralwhite;
+    color: #000000;
+    background: url(images/laptop.png) no-repeat right bottom;
+    list-style-type: square;
+    
+}
+h2 {
+    background-color: #1fd561;
+    background-image: url(images/laptop30px.png);
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+p {
+    
+}
